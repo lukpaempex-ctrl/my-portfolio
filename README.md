@@ -3,7 +3,7 @@
 
   <img src="profile.jpeg" class="profile-img"
 
-       alt="รูปโปรไฟล์">
+       
 
   <h1>ธรณิศ เกษมสุข</h1>
 
